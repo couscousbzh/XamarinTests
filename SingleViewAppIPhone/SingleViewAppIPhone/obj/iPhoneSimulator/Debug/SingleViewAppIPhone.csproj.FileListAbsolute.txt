@@ -1,0 +1,17 @@
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\bin\iPhoneSimulator\Debug\SingleViewAppIPhone.exe
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\bin\iPhoneSimulator\Debug\SingleViewAppIPhone.pdb
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\ibtool\LaunchScreen.nib
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\BYZ-38-t0r-view-8bC-Xf-vdC.nib
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\Info.plist
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\ibtool\Main.storyboardc\UIViewController-BYZ-38-t0r.nib
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\ibtool\_BundleResourceWithLogicalName.items
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\actool\asset-manifest.plist
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\actool\_PartialAppManifest.items
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\actool\_BundleResourceWithLogicalName.items
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\optimized\
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\optimized\Entitlements.plist
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\SingleViewAppIPhone.csprojResolveAssemblyReference.cache
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\SingleViewAppIPhone.exe
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\SingleViewAppIPhone.pdb
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\obj\iPhoneSimulator\Debug\SingleViewAppIPhone.exe.mdb
+E:\Projets\Tests\Xamarin\SingleViewAppIPhone\SingleViewAppIPhone\bin\iPhoneSimulator\Debug\SingleViewAppIPhone.exe.mdb
