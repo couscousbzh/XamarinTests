@@ -34,9 +34,5 @@
 	</array>
 	<key>CFBundleIconFiles</key>
 	<array/>
-	<key>XSAppIconAssets</key>
-	<string>Resources/Media1.xcassets/AppIcons.appiconset</string>
-	<key>XSLaunchImageAssets</key>
-	<string>Resources/Media1.xcassets/LaunchImages.launchimage</string>
 </dict>
 </plist>

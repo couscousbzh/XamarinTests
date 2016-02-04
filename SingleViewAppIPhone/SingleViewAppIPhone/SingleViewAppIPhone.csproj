@@ -90,6 +90,10 @@
     <None Include="Info.plist" />
     <Compile Include="PhoneTranslator.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <ImageAsset Include="Resources\Media.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImages.launchimage\Contents.json" />
+    <ImageAsset Include="Resources\Media1.xcassets\AppIcons.appiconset\Contents.json" />
+    <ImageAsset Include="Resources\Media1.xcassets\LaunchImages.launchimage\Contents.json" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="ViewController.designer.cs">
@@ -129,6 +133,10 @@
     <BundleResource Include="Resources\Default.png" />
     <BundleResource Include="Resources\Default%402x.png" />
     <BundleResource Include="Resources\Default-568h%402x.png" />
+    <ImageAsset Include="Resources\Media1.xcassets\LaunchImages.launchimage\Default%402x.png" />
+    <ImageAsset Include="Resources\Media1.xcassets\LaunchImages.launchimage\Default-568h%402x.png" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImages.launchimage\Default%402x.png" />
+    <ImageAsset Include="Resources\Media.xcassets\LaunchImages.launchimage\Default-568h%402x.png" />
   </ItemGroup>
   <ItemGroup>
     <ImageAsset Include="Resources/Media.xcassets/AppIcons.appiconset/Contents.json">
